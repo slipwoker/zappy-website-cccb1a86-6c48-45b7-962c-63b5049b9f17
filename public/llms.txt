@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover premium designer fragrances without the premium price. Shop affordable cologne decants and travel-size samples delivered to your door.
+
+### How It Works
+https://example.com/how-it-works
+Learn how Decant Lab makes designer scents accessible. We decant premium colognes into travel-friendly sizes so you can try before you buy the full bottle.
+
+### Scent Library
+https://example.com/scent-library
+Browse our curated collection of designer fragrance decants. From fresh citrus to deep woody scents, find your signature cologne in travel-size portions.
+
+### Contact
+https://example.com/contact
+Need help choosing your next scent? Our fragrance experts are here to answer questions and guide you to the perfect cologne decant for your style.
+
+### Products
+https://example.com/products
+Our Products - Decant Lab
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Decant Lab
+
+### Category
+https://example.com/category/:slug
+Products - Decant Lab
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
